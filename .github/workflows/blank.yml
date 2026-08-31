@@ -6,5 +6,4 @@ jobs:
     steps:
       - name: Say Hello
         run: echo "Robot is working!"
-      - name: Break it
-        run: exit 1
+      
